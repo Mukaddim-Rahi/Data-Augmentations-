@@ -1,5 +1,5 @@
 # 🧠 Image Augmentation & Preprocessing Pipeline
-The following data augmentation techniques were applied:
+A simple and effective pipeline for augmenting and resizing image datasets — ideal for machine learning and deep learning workflows.
 
 Horizontal Flip
 
