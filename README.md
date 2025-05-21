@@ -1,4 +1,4 @@
-# Data-Augmentations-
+# 🧠 Image Augmentation & Preprocessing Pipeline
 The following data augmentation techniques were applied:
 
 Horizontal Flip
