@@ -1,25 +1,20 @@
 # 🧠 Image Augmentation & Preprocessing Pipeline
 A simple and effective pipeline for augmenting and resizing image datasets — ideal for machine learning and deep learning workflows.
 
-Horizontal Flip
+✨ Features
+🔍 Auto Image Collection: Recursively scans input folders for valid image files.
+
+🧪 Augmentations:
 
 Vertical Flip
 
-Brightness Increase
+90° Rotation
 
-Brightness Decrease
+Shearing
 
-Contrast Increase
+Gaussian Blur
 
-Hue Shift
+🖼️ Resizing & Format Conversion: All images resized to 224x224 and saved as .png.
 
-Saturation Increase
-
-Gaussian Noise Addition
-
-Salt-and-Pepper Noise Addition
-
-Zoom In
-
-Zoom Out
+📦 Zipped Output: Final dataset is compressed into a .zip for easy download/sharing.
 
