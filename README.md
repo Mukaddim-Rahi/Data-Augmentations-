@@ -1,7 +1,7 @@
 # 🧠 Image Augmentation & Preprocessing Pipeline
 A simple and effective pipeline for augmenting and resizing image datasets — ideal for machine learning and deep learning workflows.
 
-##✨ Features
+## ✨ Features
 
 🔍 Auto Image Collection: Recursively scans input folders for valid image files.
 
