@@ -5,7 +5,7 @@ A simple and effective pipeline for augmenting and resizing image datasets — i
 
 🔍 Auto Image Collection: Recursively scans input folders for valid image files.
 
-🧪 Augmentations:
+### 🧪 Augmentations:
 
 Vertical Flip
 
