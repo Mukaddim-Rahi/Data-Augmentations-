@@ -7,13 +7,13 @@ A simple and effective pipeline for augmenting and resizing image datasets — i
 
 ### 🧪 Augmentations:
 
-Vertical Flip
+* Vertical Flip
 
-90° Rotation
+* 90° Rotation
 
-Shearing
+* Shearing
 
-Gaussian Blur
+* Gaussian Blur
 
 ### 🖼️ Resizing & Format Conversion: All images resized to 224x224 and saved as .png.
 
