@@ -15,7 +15,9 @@ A simple and effective pipeline for augmenting and resizing image datasets — i
 
 * Gaussian Blur
 
-### 🖼️ Resizing & Format Conversion: All images resized to 224x224 and saved as .png.
+### 🖼️ Resizing & Format Conversion: 
+All images resized to 224x224 and saved as .png.
 
-### 📦 Zipped Output: Final dataset is compressed into a .zip for easy download/sharing.
+### 📦 Zipped Output: 
+Final dataset is compressed into a .zip for easy download/sharing.
 
