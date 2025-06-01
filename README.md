@@ -14,7 +14,7 @@ Recursively scans input folders for valid image files.
 
 * Shearing
 
- Gaussian Blur
+* Gaussian Blur
 
 ### 🖼️ Resizing & Format Conversion: 
 All images resized to 224x224 and saved as .png.
